@@ -1,7 +1,5 @@
 package org.example;
 
-import java.util.Comparator;
-
 public class Student {
     Integer age;
 

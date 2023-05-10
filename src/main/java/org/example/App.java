@@ -1,9 +1,6 @@
 package org.example;
 
 import java.util.*;
-
-import static java.util.List.of;
-
 public class App
 {
     public static void main( String[] args ) {
